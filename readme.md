@@ -17,7 +17,11 @@
 * [x] Collect the Supporting Base Papers
 * [x] Gather articles and relevant documents to the Project
 * [ ] Look for sources to learn about Blockchain
+* [ ] Study about the Techstack to be implemented,that would be best viable.
+* [ ] Check the extent of feasibilty to actually implement the DApp which will satisfy our Requirements
+* [ ] Get things ready for Review 0
 
+<br>
 <br>
 
 ```python
