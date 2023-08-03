@@ -1,6 +1,5 @@
 ## Decentralized Traceability and Direct Selling for Transparency and efficiency in Agriculture 
 
-
 <br>
 
 ## Team Members
@@ -17,12 +16,15 @@
 * [x] Collect the Supporting Base Papers
 * [x] Gather articles and relevant documents to the Project
 * [ ] Look for sources to learn about Blockchain
-* [ ] Study about the Techstack to be implemented,that would be best viable.
+* [ ] Study about the Techstack to be implemented,that would be best suitable for our requirements.
 * [ ] Check the extent of feasibilty to actually implement the DApp which will satisfy our Requirements
 * [ ] Get things ready for Review 0
 
+
+
 <br>
 <br>
+
 
 ```python
   def greet():
