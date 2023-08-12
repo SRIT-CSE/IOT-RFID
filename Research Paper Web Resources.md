@@ -20,9 +20,7 @@ Explore various publishers in the academic world, such as [Scopus](https://www.s
 
 - **[Google Scholar](https://scholar.google.com)**:
   Access a vast collection of research papers and scholarly articles for your study.  
-  - **[Advanced Scholar](https://scholar.google.com/#d=gs_asd&t=1691802368465)** search can help you narrow down the artcile suitable for your requirement.
-
-<br>
+  - **[Advanced Scholar Search](https://scholar.google.com/#d=gs_asd&t=1691802368465)**  can help you narrow down the artcile suitable for your requirement.
 
 - **[Sci-Hub](https://sci-hub.se)**:
   An online repository providing free access to a wide range of research articles.
