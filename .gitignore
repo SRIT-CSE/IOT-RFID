@@ -1,6 +1,5 @@
-*.pdf
-*.docx
+
 
 DOC/Editable Docs/*
+
 /Base Papers/*
-/Reference Papers/*
