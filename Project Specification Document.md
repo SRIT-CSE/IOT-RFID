@@ -1,12 +1,12 @@
-# Project Specification: Agricultural Product Trading Portal
+# Project Specification: Decentralized Traceability and Direct Selling of Agricilture Supply
 
-**Title Page:**
-- Project Title: Agricultural Product Trading Portal
-- Your Name: Charan
+
+**Title :**
+- Project Title: Agricultural Product Trading Portal 
 - Date: 14th August 2023
 
 **Abstract:**
-We propose an IoT and blockchain-powered portal to revolutionize agricultural product trading. By directly connecting farmers and consumers, the portal eliminates middlemen fraudulence, ensures product quality, and enhances transparency.
+We proposed an IoT and blockchain-powered portal to revolutionize agricultural product trading. By directly connecting farmers and Govt or Markets, the portal eliminates middlemen fraudulence, ensures product quality, and enhances transparency.
 
 **Introduction:**
 The agriculture sector's challenge with middlemen fraudulence affects farmers' income and consumer trust. Our portal aims to address this challenge using IoT and blockchain, empowering farmers and enhancing the supply chain.
@@ -37,8 +37,7 @@ The project focuses on creating an intuitive web portal for farmers to list prod
 5. IoT Platform: [Specify]
 6. Front-end Development Tools: [Specify]
 7. Version Control: Git
-8. Security Tools: SSL, Encryption
-9. APIs and Integrations: [Specify]
+8. APIs and Integrations: [Specify]
 
 **Hardware Requirements:**
 1. Smartphones and Computers (Users)
