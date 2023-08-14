@@ -2,9 +2,9 @@
 <br>
 
  ### Abstract: 
-    The agriculture sector faces a significant challenge due to middlemen fraudulence, resulting in increased costs and reduced farmer income. To address this, we propose a portal powered by IoT and blockchain technology for transparent agricultural product trading. 
+   The agriculture sector faces a significant challenge due to middlemen fraudulence, resulting in increased costs and reduced farmer income. To address this, we propose a portal powered by IoT and blockchain technology for transparent agricultural product trading. 
 
-    This platform empowers farmers to directly sell their products, eliminating intermediaries and ensuring accurate product information. IoT enables real-time tracking, while blockchain guarantees tamper-proof traceability. By decentralizing the system, we enhance security and reduce middlemen fraud, ultimately benefiting farmers and consumers.
+  This platform empowers farmers to directly sell their products, eliminating intermediaries and ensuring accurate product information. IoT enables real-time tracking, while blockchain guarantees tamper-proof traceability. By decentralizing the system, we enhance security and reduce middlemen fraud, ultimately benefiting farmers and consumers.
 
  ### Objectives:
   1. ***Eliminate Middlemen Fraudulence***
