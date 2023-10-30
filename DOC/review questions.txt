@@ -1,0 +1,10 @@
+   The questions asked in review-1 are :
+
+   1.Mobile application is user friendly and easy for farmers to access,then why are you choosing web application?
+   2.Which software engineering model is  used in your project?
+   3.What is the Scope ?
+   4.whats is the cost of your project?
+   5.what is the timeline of your project?
+   6.What are the functionalities involved ?
+   7.what is the difference between your proposed work and the existing ONDC(open network digital commerce) System?   
+   
