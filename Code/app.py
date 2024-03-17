@@ -34,31 +34,39 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'
 
 
-
+#routes defined
 @app.route('/')
 def index():
     return render_template('index.html')
 
+#admin page
 @app.route('/admin')
 def admin():
     return render_template('admin.html')
+
 
 @app.route('/noti')
 def noti():
     return render_template('noti.html')
 
+
+#seller page
 @app.route("/sellershome")
 def sellershome():
     return render_template('sellershome.html')
 
+
+#buyer page
 @app.route("/buyerhome")
 def buyerhome():
     return render_template('buyerhome.html')
 
+#admin page
 @app.route("/adminhome")
 def adminhome():
     return render_template('adminhome.html')
 
+#admin logs
 @app.route("/adminlog", methods=["POST", "GET"])
 def adminlog():
     if request.method == "POST":
@@ -70,6 +78,9 @@ def adminlog():
             return render_template('admin.html', msg="Login Failed!!")
     return render_template('admin.html')
 
+
+#show sellers log 
+#post and get routes
 @app.route("/sellerslog", methods=["POST", "GET"])
 def sellerslog():
     if request.method == "POST":
@@ -248,6 +259,7 @@ def bforgotpassword():
             flash("Provide Valid Email","warning")
             return render_template('buyerslog.html',msg=msg)
     return render_template('bforgotpassword.html',msg='check')
+
 
 @app.route("/bupdatepassword",methods=['POST','GET'])
 def bupdatepassword():
