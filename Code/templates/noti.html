@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toast Notification</title>
+    <style>
+        /* Toast styling */
+        #toast {
+            visibility: hidden;
+            max-width: 200px;
+            height: auto;
+            position: fixed;
+            bottom: 10%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #ffffff;
+            padding: 16px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            z-index: 9999;
+        }
+    </style>
+</head>
+<body>
+
+<div id="toast">
+    <div>
+        <img src="path/to/checkmark_icon.png" alt="Success Icon" width="30" style="display: inline-block; vertical-align: middle;">
+        <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">Login Successfully</span>
+    </div>
+</div>
+
+<script>
+    function showToast() {
+        const toast = document.getElementById('toast');
+        toast.style.visibility = 'visible';
+
+        // Hide the toast after 3 seconds
+        setTimeout(() => {
+            toast.style.visibility = 'hidden';
+        }, 3000);
+    }
+
+    // Show the toast notification (for demo purposes, you can trigger this based on your event)
+    showToast();
+</script>
+
+</body>
+</html>

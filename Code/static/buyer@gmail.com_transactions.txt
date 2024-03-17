@@ -1,0 +1,24 @@
+Block #0
+Timestamp: 2024-03-12 10:24:49.327776
+Data: Genesis Block
+Hash: e868cef241836e8de74142ce72c01fe3e16cf571bb2da08ace5f9be7fbc00ccf
+Previous Hash: 0
+
+Block #1
+Timestamp: 2024-03-12 10:24:49.327776
+Data: ('15000', 'Preeti Desai', '9685745896547896', '12/26', '258', 'buyer@gmail.com', 'kumar@gmail.com', 'Completed')
+Hash: 6401fd3ec7d3af364c95667397eabba0f4c423abb0c928c6860141c7546dbe0b
+Previous Hash: e868cef241836e8de74142ce72c01fe3e16cf571bb2da08ace5f9be7fbc00ccf
+
+Block #7
+Timestamp: 2024-03-12 10:24:49.327776
+Data: ('15000', 'Preeti Desai', '9854212542586598', '12/24', '265', 'buyer@gmail.com', 'kumar@gmail.com', 'Completed')
+Hash: 9c43d4b2c3990aa3ad0ea8ed79579ea3d3a643187f647206cd44a158fe6cf94b
+Previous Hash: 6401fd3ec7d3af364c95667397eabba0f4c423abb0c928c6860141c7546dbe0b
+
+Block #8
+Timestamp: 2024-03-12 10:24:49.327776
+Data: ('15000', 'Preeti Desai', '9854212542586598', '12/24', '125', 'buyer@gmail.com', 'kumar@gmail.com', 'Completed')
+Hash: 4982542617f886b60486b93a581816b4a84ee81614557fdc4bf9b377a4bcf94f
+Previous Hash: 9c43d4b2c3990aa3ad0ea8ed79579ea3d3a643187f647206cd44a158fe6cf94b
+
