@@ -32,33 +32,33 @@
 
 
 
-[Code] ([https://link-url-here.org](https://github.com/SRIT-CSE/IOT-RFID/tree/master/Code)
-[Final Thesis Document](https://github.com/SRIT-CSE/IOT-RFID/blob/master/Project%20Documentation/Project%20Thesis%20Final.pdf)
-[Code Execution Process] ()
+[Code] (https://github.com/SRIT-CSE/IOT-RFID/tree/master/Code) <br/>
+[Final Thesis Document] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Project%20Documentation/Project%20Thesis%20Final.pdf) <br/>
+[Code Execution Process] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Project%20Documentation/Project%20Execution%20Process) <br/>
 
 ## Review PPTs
 
-[Review 0 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/0-REVIEW%20Final%20(2).pptx)
-[Review 1 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/review-1%20ppt.pptx)
-[Review 2 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/review-2%20ppt.pptx)
-[Review 3 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/finalreview%20ppt.pptx)
-[Final review PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/finalreview%20ppt.pptx)
+[Review 0 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/0-REVIEW%20Final%20(2).pptx) <br/>
+[Review 1 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/review-1%20ppt.pptx) <br/>
+[Review 2 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/review-2%20ppt.pptx) <br/>
+[Review 3 PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/finalreview%20ppt.pptx)  <br/>
+[Final review PPT] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Review%20PPTs/finalreview%20ppt.pptx) <br/>
 
 ## Internship Documents
-[Charan] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Sai%20Charan%20N/Charan%20Android.pptx)
-[Pranav] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Sai%20Pranav%20G/documents)
-[Shabana] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Shabana%20Internship%20Documents/Android.pptx)
-[sushmitha] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/C.Sushmitha%20Internship%20Docs/Sushmitha%20C%20Android%20Internship%20Documentation.docx)
+[Charan] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Sai%20Charan%20N/Charan%20Android.pptx) <br/>
+[Pranav] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Sai%20Pranav%20G/documents) <br/>
+[Shabana] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/Shabana%20Internship%20Documents/Android.pptx) <br/>
+[sushmitha] (https://github.com/SRIT-CSE/IOT-RFID/blob/master/C.Sushmitha%20Internship%20Docs/Sushmitha%20C%20Android%20Internship%20Documentation.docx) <br/>
 
 
 ## Atteneded the Conference held at CBIT:
 Certificates of Appreciation:
 
-(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/224e45ac-843c-44d4-a540-3ab5aedce3eb)
-(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/b66d873f-c40d-49f8-8254-cc39a5256adc)
-(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/6ae8dfec-21fa-4d15-9f40-65d960155f75)
-(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/d9329914-185f-4e43-b877-482938f7ae7e)
-(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/302ab284-5224-47e0-9373-0aa605956706)
+![0](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/224e45ac-843c-44d4-a540-3ab5aedce3eb)
+![1](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/b66d873f-c40d-49f8-8254-cc39a5256adc)
+![2] (https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/6ae8dfec-21fa-4d15-9f40-65d960155f75)
+![3](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/d9329914-185f-4e43-b877-482938f7ae7e)
+![4](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/302ab284-5224-47e0-9373-0aa605956706)
 
 
 
