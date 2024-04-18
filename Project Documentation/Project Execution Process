@@ -1,0 +1,50 @@
+## Guide to Setting Up Django, PHP, and XAMPP Server
+
+1. **Install XAMPP**:
+   - Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
+   - Follow the installation instructions for your operating system.
+
+2. **Start XAMPP**:
+   - Launch XAMPP Control Panel.
+   - Start the Apache and MySQL services by clicking on the "Start" button next to each.
+
+3. **Configure Apache**:
+   - Navigate to the Apache configuration directory (usually located in XAMPP installation directory -> apache -> conf).
+   - Open the `httpd.conf` file in a text editor.
+   - Configure Apache to work with Django by adding/modifying the following lines:
+     ```
+     LoadModule wsgi_module modules/mod_wsgi.so
+     WSGIScriptAlias / /path/to/your/django/project/wsgi.py
+     WSGIPythonPath /path/to/your/django/project
+     <Directory /path/to/your/django/project>
+         <Files wsgi.py>
+             Require all granted
+         </Files>
+     </Directory>
+     ```
+
+4. **Install Django**:
+   - Install Django in your Python environment using pip:
+     ```
+     pip install django
+     ```
+
+5. **Create a Django Project**:
+   - Create a new Django project using the following command:
+     ```
+     django-admin startproject myproject
+     ```
+
+6. **Start Django Development Server**:
+   - Navigate to your Django project directory.
+   - Run the Django development server using the following command:
+     ```
+     python manage.py runserver
+     ```
+   - Verify that your Django project is running by visiting `http://127.0.0.1:8000` in your web browser.
+
+7. **Configure PHP**:
+   - Place your PHP files in the XAMPP `htdocs` directory (usually located in XAMPP installation directory -> htdocs).
+
+8. **Access PHP Files**:
+   - Access your PHP files through the Apache server by visiting `http://localhost/yourphpfile.php` in your web browser.
