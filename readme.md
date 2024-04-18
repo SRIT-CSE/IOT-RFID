@@ -1,4 +1,8 @@
-![image](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/10e9a30b-6d74-4d4d-a953-c6f50d41a584)## Decentralized Traceability and Direct Selling of Agricilture Supply 
+
+# Decentralized Traceability and Direct Marketing of Agricultural Supply Chain
+
+
+
 <br>
 
  ### Abstract: 
@@ -7,13 +11,12 @@
 
 
  ### Objectives:
-1. *** To design a web portal that facilitates farmers to sell their products in a direct and transparent manner. ***
+1. To design a web portal that facilitates farmers to sell their products in a direct and transparent manner.
 2. To bridge the gap between farmers and buyers, promoting transparency, traceability, and trust in agricultural transactions by providing a digital platform for them to connect which helps farmers to get better pricing for their crops.
 
 
 
   <br>
-
 
 
 ## Team Members
