@@ -31,6 +31,12 @@
 ![IMG-20240418-WA0001](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/07647da5-9f96-4538-bb1e-b4a5a3217723)
 
 
+
+[Code] ([https://link-url-here.org](https://github.com/SRIT-CSE/IOT-RFID/tree/master/Code))
+[Final Thesis Document](https://github.com/SRIT-CSE/IOT-RFID/blob/master/Project%20Documentation/Project%20Thesis%20Final.pdf)
+
+
+
 ## Atteneded the Conference held at CBIT:
 Certificates of Appreciation:
 
