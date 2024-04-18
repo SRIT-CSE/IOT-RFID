@@ -54,11 +54,11 @@
 ## Atteneded the Conference held at CBIT:
 Certificates of Appreciation:
 
- ![shabana](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/224e45ac-843c-44d4-a540-3ab5aedce3eb)
-![charan](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/b66d873f-c40d-49f8-8254-cc39a5256adc)
-![shabana](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/6ae8dfec-21fa-4d15-9f40-65d960155f75)
-![pranav](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/d9329914-185f-4e43-b877-482938f7ae7e)
-![narasimhulu](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/302ab284-5224-47e0-9373-0aa605956706)
+(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/224e45ac-843c-44d4-a540-3ab5aedce3eb)
+(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/b66d873f-c40d-49f8-8254-cc39a5256adc)
+(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/6ae8dfec-21fa-4d15-9f40-65d960155f75)
+(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/d9329914-185f-4e43-b877-482938f7ae7e)
+(https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/302ab284-5224-47e0-9373-0aa605956706)
 
 
 
