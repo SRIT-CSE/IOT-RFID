@@ -26,8 +26,10 @@
  2| N Sai Charan | 204g1a0584@srit.ac.in |9010877381
  3|G Sai Pranav | 204g1a0590@srit.ac.in|9390335523
  4|C Sushmitha |204g1a05A6@srit.ac.in|7207529163
-
 <br>
+
+![IMG-20240418-WA0001](https://github.com/SRIT-CSE/IOT-RFID/assets/95006189/07647da5-9f96-4538-bb1e-b4a5a3217723)
+
 
 ## Atteneded the Conference held at CBIT:
 Certificates of Appreciation:
